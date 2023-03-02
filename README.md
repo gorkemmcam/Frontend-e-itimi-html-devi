@@ -1,1 +1,1 @@
-# Frontend-e-itimi-html-devi
+# Frontend-egitimi-html-devi
